@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Real_Time\\SignalR_ChatRoom_Demo_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{332274DB-2BFB-490D-912C-0C0EB771D509}|SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj|d:\\real_time\\signalr_chatroom_demo_1\\signalr_chatroom_demo_1\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332274DB-2BFB-490D-912C-0C0EB771D509}|SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj|solutionrelative:signalr_chatroom_demo_1\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332274DB-2BFB-490D-912C-0C0EB771D509}|SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj|d:\\real_time\\signalr_chatroom_demo_1\\signalr_chatroom_demo_1\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332274DB-2BFB-490D-912C-0C0EB771D509}|SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj|solutionrelative:signalr_chatroom_demo_1\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332274DB-2BFB-490D-912C-0C0EB771D509}|SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj|d:\\real_time\\signalr_chatroom_demo_1\\signalr_chatroom_demo_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332274DB-2BFB-490D-912C-0C0EB771D509}|SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj|solutionrelative:signalr_chatroom_demo_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332274DB-2BFB-490D-912C-0C0EB771D509}|SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj|d:\\real_time\\signalr_chatroom_demo_1\\signalr_chatroom_demo_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{332274DB-2BFB-490D-912C-0C0EB771D509}|SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj|solutionrelative:signalr_chatroom_demo_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332274DB-2BFB-490D-912C-0C0EB771D509}|SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj|d:\\real_time\\signalr_chatroom_demo_1\\signalr_chatroom_demo_1\\dataservice\\sharedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332274DB-2BFB-490D-912C-0C0EB771D509}|SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj|solutionrelative:signalr_chatroom_demo_1\\dataservice\\sharedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332274DB-2BFB-490D-912C-0C0EB771D509}|SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj|d:\\real_time\\signalr_chatroom_demo_1\\signalr_chatroom_demo_1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{332274DB-2BFB-490D-912C-0C0EB771D509}|SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj|solutionrelative:signalr_chatroom_demo_1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332274DB-2BFB-490D-912C-0C0EB771D509}|SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj|d:\\real_time\\signalr_chatroom_demo_1\\signalr_chatroom_demo_1\\signalr_chatroom_demo_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{332274DB-2BFB-490D-912C-0C0EB771D509}|SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj|solutionrelative:signalr_chatroom_demo_1\\signalr_chatroom_demo_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Real_Time\\SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1\\appsettings.json",
+              "RelativeDocumentMoniker": "SignalR_ChatRoom_Demo_1\\appsettings.json",
+              "ToolTip": "D:\\Real_Time\\SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1\\appsettings.json",
+              "RelativeToolTip": "SignalR_ChatRoom_Demo_1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T19:11:30.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShareDB.cs",
+              "DocumentMoniker": "D:\\Real_Time\\SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1\\DataService\\ShareDB.cs",
+              "RelativeDocumentMoniker": "SignalR_ChatRoom_Demo_1\\DataService\\ShareDB.cs",
+              "ToolTip": "D:\\Real_Time\\SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1\\DataService\\ShareDB.cs",
+              "RelativeToolTip": "SignalR_ChatRoom_Demo_1\\DataService\\ShareDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T22:35:38.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Real_Time\\SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SignalR_ChatRoom_Demo_1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Real_Time\\SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SignalR_ChatRoom_Demo_1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T23:31:46.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Real_Time\\SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1\\Program.cs",
+              "RelativeDocumentMoniker": "SignalR_ChatRoom_Demo_1\\Program.cs",
+              "ToolTip": "D:\\Real_Time\\SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1\\Program.cs",
+              "RelativeToolTip": "SignalR_ChatRoom_Demo_1\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:09:33.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\Real_Time\\SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SignalR_ChatRoom_Demo_1\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\Real_Time\\SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "SignalR_ChatRoom_Demo_1\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:01:14.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignalR_ChatRoom_Demo_1.csproj",
+              "DocumentMoniker": "D:\\Real_Time\\SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj",
+              "RelativeDocumentMoniker": "SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj",
+              "ToolTip": "D:\\Real_Time\\SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj",
+              "RelativeToolTip": "SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T23:00:00.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserConnection.cs",
+              "DocumentMoniker": "D:\\Real_Time\\SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1\\Models\\UserConnection.cs",
+              "RelativeDocumentMoniker": "SignalR_ChatRoom_Demo_1\\Models\\UserConnection.cs",
+              "ToolTip": "D:\\Real_Time\\SignalR_ChatRoom_Demo_1\\SignalR_ChatRoom_Demo_1\\Models\\UserConnection.cs",
+              "RelativeToolTip": "SignalR_ChatRoom_Demo_1\\Models\\UserConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T19:17:47.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
